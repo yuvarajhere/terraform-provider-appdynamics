@@ -52,7 +52,7 @@ func resourceHealthRule() *schema.Resource {
 			},
 			"business_transaction_scope": {
 				Type:     schema.TypeString,
-				Required: true,
+				Required: false,
 				ValidateFunc: validateList([]string{
 					"ALL_BUSINESS_TRANSACTIONS",
 					"SPECIFIC_BUSINESS_TRANSACTIONS",
