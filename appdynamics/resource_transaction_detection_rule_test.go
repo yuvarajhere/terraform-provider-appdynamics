@@ -3,7 +3,7 @@ package appdynamics
 import (
 	"errors"
 	"fmt"
-	"github.com/HarryEMartland/terraform-provider-appdynamics/appdynamics/client"
+	"github.com/yuvarajhere/terraform-provider-appdynamics/appdynamics/client"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/acctest"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"

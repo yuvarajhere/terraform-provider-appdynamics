@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/HarryEMartland/terraform-provider-appdynamics/appdynamics"
+	. "github.com/yuvarajhere/terraform-provider-appdynamics/appdynamics"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
 )

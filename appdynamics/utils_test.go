@@ -2,7 +2,7 @@ package appdynamics
 
 import (
 	"fmt"
-	"github.com/HarryEMartland/terraform-provider-appdynamics/appdynamics/client"
+	"github.com/yuvarajhere/terraform-provider-appdynamics/appdynamics/client"
 	"github.com/stretchr/testify/assert"
 	"log"
 	"os"

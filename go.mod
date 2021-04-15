@@ -1,4 +1,4 @@
-module github.com/HarryEMartland/terraform-provider-appdynamics
+module github.com/yuvarajhere/terraform-provider-appdynamics
 
 go 1.14
 
